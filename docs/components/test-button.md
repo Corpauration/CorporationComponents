@@ -2,6 +2,10 @@
 
 This is just a test component for demonstrating how it works.
 
+## Test the component
+
+<ComponentTester componentName="test-button"/>
+
 ## Example
 
 <DemoSourceCode componentName="examples-test-button-doc">
